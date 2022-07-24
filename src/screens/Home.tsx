@@ -123,7 +123,7 @@ export function Home() {
                         <Center>
                             <ChatTeardropText color={colors.gray[300]} size={40}/>
                             <Text color="gray.300" fontSize="xl" mt={6} textAlign="center" >
-                                Você aina não possui {'\n'} 
+                                Você ainda não possui {'\n'} 
                                 solicitações {statusSelected === "open" ? 'em andamento' : 'finalizadas'}
                             </Text>
                         </Center>
